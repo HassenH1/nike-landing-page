@@ -1,3 +1,3 @@
 ﻿# nike-landing-page
 
-![](./images/nike-landing-page.png)
+![](https://github.com/HassenH1/nike-landing-page/blob/main/images/nike-landing-page.PNG?raw=true)
