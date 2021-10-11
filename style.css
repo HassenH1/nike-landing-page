@@ -1,0 +1,60 @@
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+html {
+  height: auto;
+}
+
+body {
+  display: block;
+  height: 100vh;
+  position: relative;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+#collapse {
+  position: absolute;
+  z-index: 1;
+  margin: 0 !important;
+}
+.fit-image {
+  width: 100%;
+  object-fit: contain;
+  /* height: 27rem; */
+  height: 400px;
+  /* min-height: 70%; */
+  transform: rotate(-10deg);
+  /* max-width: 100%; */
+  /* height: 60%; */
+}
+
+#main {
+  box-sizing: border-box;
+}
+
+.flex-1 {
+  flex: 1;
+}
+
+.flex-2 {
+  flex: 5;
+}
+
+.section-1 {
+  width: 10%;
+}
+
+.button-color {
+  background-color: rgb(255, 148, 232);
+}
+
+.main-height {
+  height: 60%;
+}
